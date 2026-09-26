@@ -15,7 +15,7 @@ This is a complete responsive website with:
 ## IMPORTANT BEFORE PUBLISHING
 
 Open `config.js` and replace:
-919999999999
+919005901560
 with Krishna Studio's real WhatsApp number.
 
 The pricing intentionally says "Custom Quote" because exact shop prices were not supplied. You can replace those labels with your actual prices anytime.
